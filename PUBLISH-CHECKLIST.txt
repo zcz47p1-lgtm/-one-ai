@@ -1,0 +1,15 @@
+ONE AI PUBLISH CHECKLIST
+
+[ ] Create Gemini API key at https://aistudio.google.com/apikey
+[ ] Create private GitHub repository and upload project files
+[ ] Import repository into Netlify
+[ ] Set GEMINI_API_KEY in Netlify Environment Variables (Functions scope)
+[ ] Set GEMINI_MODEL=gemini-3.8-flash
+[ ] Redeploy and test chat
+[ ] Rename site to an available one-ai Netlify subdomain
+[ ] Replace placeholder support email and review privacy policy
+[ ] Add rate limiting / abuse protection before broad public sharing
+[ ] Install/test PWA on Android
+[ ] Generate TWA with Bubblewrap after final website domain is fixed
+[ ] Configure Digital Asset Links and test signed app
+[ ] Complete Play Console requirements and submit for review
